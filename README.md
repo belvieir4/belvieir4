@@ -4,7 +4,7 @@
 
 :books: I’m currently deepening my knowledge in HTML, CSS, JavaScript and React
 
-:computer: I’m looking for an job oportunity to start and develop my career
+:computer: I’m looking for an job oportunity to start and grow my career in Development
 
 :wave: You can reach me on [my LinkedIn](https://www.linkedin.com/in/isabelcvieira/) and you can see a live preview of [my projects here](https://belvieir4.github.io/portfolio/)
 
