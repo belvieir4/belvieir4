@@ -1,6 +1,7 @@
 # Hi, I'm Isabel Vieira
 
-> I'm a Product Designer Transitioning to Front-end Development
+**I'm a Product Designer Transitioning to Front-end Development**
+
 
 :books: I’m currently deepening my knowledge in HTML, CSS, JavaScript and React
 
