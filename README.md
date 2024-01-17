@@ -3,7 +3,7 @@
 **I'm a Product Designer Transitioning to Front-end Development**
 
 
-:books: I’m currently deepening my knowledge in HTML, CSS, JavaScript and React
+:books: I’m currently deepening my knowledge in HTML, CSS, JavaScript/TypeScript and React
 
 :computer: I’m looking for an job oportunity to start and grow my career in Development
 
