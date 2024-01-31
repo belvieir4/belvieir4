@@ -7,7 +7,7 @@
 
 :computer: I’m looking for an job oportunity to focus and grow my career in Development
 
-:wave: You can reach me on [my LinkedIn](https://www.linkedin.com/in/isabelcvieira/) and you can see a live preview of [my projects here](https://isabelvieira.me) (and some of my past Design projects)
+:wave: You can reach me on [my LinkedIn](https://www.linkedin.com/in/isabelcvieira/) and you can see a live preview of [my projects here](https://isabelvieira.me) (and some of my past Design projects too)
 
 <!---
 belvieir4/belvieir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
