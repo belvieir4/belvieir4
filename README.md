@@ -5,7 +5,7 @@
 
 :books: I’m currently deepening my knowledge in HTML, CSS, JavaScript/TypeScript and React
 
-:computer: I’m looking for an job oportunity to focus and grow my career in Development
+:computer: I’m open for new job oportunities and accepting new freelance work or contracts.
 
 :wave: You can reach me on [my LinkedIn](https://www.linkedin.com/in/isabelcvieira/) and you can see a live preview of [my projects here](https://isabelvieira.me) (and some of my past Design projects too)
 
